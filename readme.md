@@ -27,3 +27,10 @@ An example for the execution of the method incident_status can be:
 
 You can use any programming language you want.
 ```
+
+How to use this:
+
+This solution was made with two projects. First one is a console app just for demonstration, I thought it would be nice to have more than just
+the tests and I've came up with it, I think it is fine for what problem is. Second one is the unit test project, a small exercise does not require
+a large amount of tests so I decided to write four and, of course, the most important tests. All the solution was developed with .NET 6.0 because
+I feel comfortable with C# and Rider as IDE, debugging is easier that VS.
