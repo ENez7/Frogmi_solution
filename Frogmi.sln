@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frogmi", "Frogmi.csproj", "{1164B47B-5DF2-4FF4-B45B-74155E7ACCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{5AC872EA-DCA3-458B-A3A1-D500C5031670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1164B47B-5DF2-4FF4-B45B-74155E7ACCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1164B47B-5DF2-4FF4-B45B-74155E7ACCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1164B47B-5DF2-4FF4-B45B-74155E7ACCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1164B47B-5DF2-4FF4-B45B-74155E7ACCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC872EA-DCA3-458B-A3A1-D500C5031670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC872EA-DCA3-458B-A3A1-D500C5031670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC872EA-DCA3-458B-A3A1-D500C5031670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC872EA-DCA3-458B-A3A1-D500C5031670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23786D01-2F24-46F1-8254-FC044BC2DAE9}
+	EndGlobalSection
+EndGlobal
